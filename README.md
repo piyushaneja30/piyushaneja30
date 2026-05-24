@@ -1,47 +1,70 @@
+<!-- Animated sakura wave banner -->
 <div align="center">
 
-# こんにちは, I'm Piyush Aneja 👋
-### `Salesforce Developer` × `東京で活動中` 🗼
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Piyush%20Aneja&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=・%20コードで世界を繋ぐ%20・&descAlignY=58&descSize=18)
+
+<a href="https://piyushaneja.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E94560&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Piyush+%F0%9F%8C%B8;Software+Developer+%E2%9B%A9+from+India+to+Japan;Building+at+Rimo+LLC+%E3%83%AA%E3%83%A2;Salesforce+%E2%80%A2+LWC+%E2%80%A2+OmniStudio+%E2%80%A2+AI;Crafting+code+with+%E5%BF%83%E9%81%A3%E3%81%84+(kokorozukai)" alt="Typing animation" />
+</a>
+
+<br>
+
+🌸 ⛩ &nbsp;&nbsp; *Based in India, building for Japan* &nbsp;・&nbsp; *インドから日本へ、コードで繋ぐ* &nbsp;&nbsp; ⛩ 🌸
+
+<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-piyushaneja.vercel.app-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://piyushaneja.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-aneja/)
 [![Trailhead](https://img.shields.io/badge/Trailhead-Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/piyushaneja)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushanejaansh@gmail.com)
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=piyushaneja&label=Visitors&color=e94560&style=flat-square)
+![Stars](https://img.shields.io/github/stars/piyushaneja?label=Stars&color=ffd700&style=flat-square)
+![Followers](https://img.shields.io/github/followers/piyushaneja?label=Followers&color=ff69b4&style=flat-square)
+
 </div>
 
----
+<div align="center">
 
-## 🌸 About Me
+```
+        ⛩  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ⛩
+```
 
-Salesforce Developer with **4+ years** of hands-on experience building scalable enterprise applications on the Salesforce Platform. Currently writing code from **Japan 🇯🇵** at **Rimo LLC**, after delivering public-sector platforms that served **100,000+ users** and processed **255,000+ online transactions** at MTX Group.
+</div>
 
-I care about clean, governor-compliant code, accessibility, and the small details that make enterprise apps feel less enterprise-y. Recognized with the **NASCIO Award** for excellence in government IT innovation, and currently exploring the intersection of CRM, AI, and Japanese product craftsmanship.
+## 🌸 About Me  ・  自己紹介
+
+Software Developer with **4+ years** of experience building scalable enterprise applications. Currently working remotely with **Rimo LLC 🇯🇵** (Japan-bound later), after delivering public-sector platforms that served **100,000+ users** and processed **255,000+ online transactions** at MTX Group.
+
+Strong foundation in the Salesforce ecosystem — Apex, LWC, OmniStudio, MuleSoft — and expanding into broader software engineering. I care about clean code, accessibility, and the small details that make enterprise apps feel less enterprise-y. Recognized with the **NASCIO Award** for excellence in government IT innovation.
 
 ```yaml
 name: Piyush Aneja
-location: Japan 🇯🇵 (previously India 🇮🇳)
-current_role: Salesforce Developer @ Rimo LLC
-focus: [Apex, LWC, OmniStudio, MuleSoft, Agentforce]
+based_in: India 🇮🇳 (working remotely for Japan 🇯🇵)
+current_role: Software Developer @ Rimo LLC
+core_stack: [Apex, LWC, OmniStudio, MuleSoft, Agentforce]
+exploring: [TypeScript, AI integrations, full-stack]
 certifications: 9 Salesforce + 4 Superbadges
 philosophy: 改善 (Kaizen) — continuous improvement
-fuel: ☕ → コード → 🍣
+fuel: ☕ → コード → 🍜
 ```
 
 ---
 
-## 🗾 Where I Am
+## 🗾 Where I Am  ・  経歴
 
 | Period | Role | Company | Location |
 | :--- | :--- | :--- | :--- |
-| **Jun 2026 — Present** | Salesforce Developer | **Rimo LLC** | 🇯🇵 Japan |
+| **Jun 2026 — Present** | Software Developer | **Rimo LLC** | 🌐 Remote (🇯🇵 Japan) |
 | Jan 2022 — May 2026 | Associate Consultant | MTX Group Inc. | 🇮🇳 India |
 | 2021 | ML Intern | India Meteorological Department | 🇮🇳 New Delhi |
 | 2021 | Software Developer Intern | ClearExam | 🇮🇳 Remote |
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack  ・  技術
 
 <div align="center">
 
@@ -86,7 +109,7 @@ fuel: ☕ → コード → 🍣
 
 ---
 
-## 🏆 Highlights from MO Professional Licensing
+## 🏆 Project Highlights  ・  実績
 
 > A government licensing platform I architected end-to-end at MTX Group, serving the State of Missouri.
 
@@ -100,9 +123,11 @@ fuel: ☕ → コード → 🍣
 | ⏱ Manual Processing Reduced | **80%** |
 | 🏅 Recognition | **NASCIO Award** |
 
+> 「神は細部に宿る」 — *God is in the details.* The numbers above are the result of a thousand small decisions.
+
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications  ・  資格
 
 <div align="center">
 
@@ -114,7 +139,7 @@ fuel: ☕ → コード → 🍣
 
 ---
 
-## 🏅 Awards
+## 🏅 Awards  ・  受賞
 
 - 🥇 **Team Excellence Award** — MTX Group Inc. (Feb 2025)
 - ⭐ **Above & Beyond Award** — MTX Group Inc. (Feb 2026, Jan 2025, Apr 2023)
@@ -123,39 +148,28 @@ fuel: ☕ → コード → 🍣
 
 ---
 
-## 📚 Published Work
+## 📚 Published Work  ・  論文
 
 📖 [*A study on secure cloud storage based on cloud computing*](https://link.springer.com/chapter/10.1007/978-981-15-9927-9_88) — **Springer**, Jun 2021
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushaneja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## 🏯 「初心忘るべからず」
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushaneja&layout=compact&theme=tokyonight&hide_border=true)
+*Shoshin wasuru bekarazu* — **Never forget your beginner's mind.**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=piyushaneja&theme=tokyonight&hide_border=true)
+🌸 &nbsp; ⛩ &nbsp; 🍡 &nbsp; 🏯 &nbsp; 🗼 &nbsp; 🎋 &nbsp; 🌸
 
-</div>
+*Stay curious. Keep shipping. Drink more matcha.*
 
----
+<br>
 
-## 🤝 Let's Connect
+![Snake animation](https://raw.githubusercontent.com/piyushaneja/piyushaneja/output/github-contribution-grid-snake.svg)
 
-<div align="center">
+<br>
 
-I'm always open to discussing Salesforce architecture, AI on the platform, or what life looks like as a developer in Japan.
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-piyushaneja.vercel.app-black?style=for-the-badge)](https://piyushaneja.vercel.app/)
-[![Email](https://img.shields.io/badge/✉️_piyushanejaansh@gmail.com-D14836?style=for-the-badge)](mailto:piyushanejaansh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/piyush-aneja/)
-
----
-
-*「継続は力なり」*
-**Persistence is power.**
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer)
 
 </div>
