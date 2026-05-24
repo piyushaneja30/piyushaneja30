@@ -156,11 +156,6 @@ fuel: ☕ → コード → 🍜
 
 *Stay curious. Keep shipping. Drink more matcha.*
 
-<br>
-
-![Snake animation](https://raw.githubusercontent.com/piyushaneja/piyushaneja/output/github-contribution-grid-snake.svg)
-
-<br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer)
 
