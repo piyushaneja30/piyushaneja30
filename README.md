@@ -26,14 +26,6 @@
 
 </div>
 
-<div align="center">
-
-```
-        ⛩  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ⛩
-```
-
-</div>
-
 ## 🌸 About Me  ・  自己紹介
 
 Software Developer with **4+ years** of experience building scalable enterprise applications. Currently working remotely with **Rimo LLC 🇯🇵** (Japan-bound later), after delivering public-sector platforms that served **100,000+ users** and processed **255,000+ online transactions** at MTX Group.
