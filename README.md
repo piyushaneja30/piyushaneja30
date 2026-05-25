@@ -4,8 +4,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Piyush%20Aneja&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%205%2B%20Years&descAlignY=58&descSize=20)
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E94560&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%9A%80+5%2B+Years;Salesforce+%E2%80%A2+LWC+%E2%80%A2+OmniStudio+%E2%80%A2+AI;Building+at+Rimo+LLC+%F0%9F%87%AF%F0%9F%87%B5+Japan;255%2C000%2B+Transactions+Processed;NASCIO+Award+Winner+%F0%9F%8F%85" alt="Typing animation" />
-</a>a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mno&weight=600&size=22&duration=2800&pause=900&color=E94560&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%9A%80+5%2B+Years;Salesforce+%E2%80%A2+LWC+%E2%80%A2+OmniStudio+%E2%80%A2+AI;Building+at+Rimo+LLC+%F0%9F%87%AF%F0%9F%87%B5+Japan;255%2C000%2B+Transactions+Processed;NASCIO+Award+Winner+%F0%9F%8F%85" alt="Typing animation" />
+</a>
 
 <br>
 
