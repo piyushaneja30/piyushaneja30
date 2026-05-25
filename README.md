@@ -3,16 +3,14 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Piyush%20Aneja&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%204%2B%20Years&descAlignY=58&descSize=20)
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E94560&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%9A%80+4%2B+Years;Salesforce+%E2%80%A2+LWC+%E2%80%A2+OmniStudio+%E2%80%A2+AI;Building+at+Rimo+LLC+%F0%9F%87%AF%F0%9F%87%B5+Japan;NASCIO+Award+Winner+%F0%9F%8F%85" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E94560&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%9A%80+4%2B+Years;Salesforce+%E2%80%A2+LWC+%E2%80%A2+OmniStudio+%E2%80%A2+AI;Building+at+Rimo+LLC+%F0%9F%87%AF%F0%9F%87%B5+Japan;NASCIO+Award+Winner+%F0%9F%8F%85" alt="Typing animation" />
 
 <br>
 
 <a href="https://piyushaneja.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-piyushaneja.vercel.app-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/piyush-aneja/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://www.salesforce.com/trailblazer/piyushaneja" target="_blank"><img src="https://img.shields.io/badge/Trailhead-Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead"/></a>&nbsp;
-<a href="mailto:piyushanejaansh@gmail.com"><img src="https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:piyushanejaansh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br><br>
 
@@ -114,19 +112,7 @@ philosophy  : Kaizen — continuous improvement, always
 
 ## 📚 Publication
 
-📖 [*A study on secure cloud storage based on cloud computing*](https://link.springer.com/chapter/10.1007/978-981-15-9927-9_88) — **Springer**, Jun 2021
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Commits](https://img.shields.io/badge/Total%20Commits-500%2B-e94560?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Repos](https://img.shields.io/badge/Public%20Repos-20%2B-1798c1?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-ffd700?style=for-the-badge&logo=salesforce&logoColor=white)
-
-</div>
+📖 <a href="https://link.springer.com/chapter/10.1007/978-981-15-9927-9_88" target="_blank"><em>A study on secure cloud storage based on cloud computing</em></a> — **Springer**, Jun 2021
 
 ---
 
