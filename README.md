@@ -1,10 +1,10 @@
 <!-- Animated header banner -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Piyush%20Aneja&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%205%2B%20Years&descAlignY=58&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Piyush%20Aneja&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%204%2B%20Years&descAlignY=58&descSize=20)
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mno&weight=600&size=22&duration=2800&pause=900&color=E94560&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%9A%80+5%2B+Years;Salesforce+%E2%80%A2+LWC+%E2%80%A2+OmniStudio+%E2%80%A2+AI;Building+at+Rimo+LLC+%F0%9F%87%AF%F0%9F%87%B5+Japan;255%2C000%2B+Transactions+Processed;NASCIO+Award+Winner+%F0%9F%8F%85" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E94560&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%9A%80+4%2B+Years;Salesforce+%E2%80%A2+LWC+%E2%80%A2+OmniStudio+%E2%80%A2+AI;Building+at+Rimo+LLC+%F0%9F%87%AF%F0%9F%87%B5+Japan;NASCIO+Award+Winner+%F0%9F%8F%85" alt="Typing animation" />
 </a>
 
 <br>
@@ -24,36 +24,36 @@
 
 ---
 
-## &#x1F680; About Me
+## 🚀 About Me
 
-Software Developer with **5+ years** of experience building scalable enterprise applications on the Salesforce platform and beyond. Currently working with **Rimo LLC &#x1F1EF;&#x1F1F5;**, a Japanese AI company, after delivering a government licensing platform at MTX Group that served **100,000+ citizens** and processed **255,000+ online transactions**.
+Software Developer with **4+ years** of experience building scalable enterprise applications on the Salesforce platform and beyond. Currently working with **Rimo LLC 🇯🇵**, a Japanese AI company, after delivering a government licensing platform at MTX Group that served **100,000+ citizens** and processed **255,000+ online transactions**.
 
 I specialize in Apex, Lightning Web Components, OmniStudio, and MuleSoft integrations. Recognized with the **NASCIO Award** for excellence in government IT innovation. Currently expanding into AI-first product development.
 
 ```yaml
 name        : Piyush Aneja
-location    : India &#x1F1EE;&#x1F1F3; (Remote &rarr; Japan &#x1F1EF;&#x1F1F5;)
+location    : India 🇮🇳 (Remote → Japan 🇯🇵)
 current_role: Software Developer @ Rimo LLC
-experience  : 5+ Years
+experience  : 4+ Years
 certifications: 9 Salesforce + 4 Superbadges
 core_skills : [Apex, LWC, OmniStudio, MuleSoft, Agentforce, AI]
-philosophy  : Kaizen &mdash; continuous improvement, always
+philosophy  : Kaizen — continuous improvement, always
 ```
 
 ---
 
-## &#x1F4BC; Experience
+## 💼 Experience
 
 | Period | Role | Company |
 | :--- | :--- | :--- |
-| **Jun 2026 &ndash; Present** | Software Developer | **Rimo LLC** &#x1F1EF;&#x1F1F5; |
-| Jan 2022 &ndash; May 2026 | Associate Consultant | MTX Group Inc. &#x1F1EE;&#x1F1F3; |
+| **Jun 2026 – Present** | Software Developer | **Rimo LLC** 🇯🇵 |
+| Jan 2022 – May 2026 | Associate Consultant | MTX Group Inc. 🇮🇳 |
 | 2021 | ML Intern | India Meteorological Department |
 | 2021 | Software Developer Intern | ClearExam |
 
 ---
 
-## &#x26A1; Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -86,66 +86,48 @@ philosophy  : Kaizen &mdash; continuous improvement, always
 
 ---
 
-## &#x1F4CA; Project Impact &mdash; Missouri DPR Platform
+## 🎓 Certifications
 
-> End-to-end government licensing platform serving the State of Missouri (MTX Group)
->
-> | Metric | Result |
-> | :--- | :--- |
-> | &#x1F4B3; Online Payments Processed | **255,462** |
-> | &#x1F464; Individual Applications | **217,000+** |
-> | &#x1F3E2; Business Applications | **9,700+** |
-> | &#x2705; Accounts Onboarded | **245,911** |
-> | &#x1FA0A; License Types Supported | **100+** (WCAG 2.1 AA compliant) |
-> | &#x23F1; Manual Processing Reduced | **~80%** |
-> | &#x1F3C5; Award | **NASCIO Award for IT Innovation** |
->
-> ---
->
-> ## &#x1F393; Certifications
->
-> <div align="center">
+<div align="center">
 
-`Agentforce Specialist` &bull; `AI Associate` &bull; `Platform Developer I` &bull; `OmniStudio Developer` &bull; `OmniStudio Consultant` &bull; `Platform Administrator` &bull; `Platform App Builder` &bull; `Platform Foundations` &bull; `MuleSoft Developer I`
+`Agentforce Specialist` • `AI Associate` • `Platform Developer I` • `OmniStudio Developer` • `OmniStudio Consultant` • `Platform Administrator` • `Platform App Builder` • `Platform Foundations` • `MuleSoft Developer I`
 
-**Superbadges:** `Apex Specialist` &bull; `App Customization Specialist` &bull; `LWC Specialist` &bull; `Reports & Dashboards Specialist`
+**Superbadges:** `Apex Specialist` • `App Customization Specialist` • `LWC Specialist` • `Reports & Dashboards Specialist`
 
 </div>
 
 ---
 
-## &#x1F3C5; Awards & Recognition
+## 🏅 Awards & Recognition
 
-- &#x1F947; **Team Excellence Award** &mdash; MTX Group Inc. *(Feb 2025)*
-- - &#x2B50; **Above & Beyond Award** &mdash; MTX Group Inc. *(Feb 2026, Jan 2025, Apr 2023)*
-  - - &#x1F3A4; **MTX Demo Jam Award** &mdash; *(2025)*
-    - - &#x1F3DB; **NASCIO Award** &mdash; Government IT Innovation
-     
-      - ---
+- 🥇 **Team Excellence Award** — MTX Group Inc. *(Feb 2025)*
+- ⭐ **Above & Beyond Award** — MTX Group Inc. *(Feb 2026, Jan 2025, Apr 2023)*
+- 🎤 **MTX Demo Jam Award** — *(2025)*
+- 🏛️ **NASCIO Award** — Government IT Innovation
 
-      ## &#x1F4DA; Publication
+---
 
-      &#x1F4D6; [*A study on secure cloud storage based on cloud computing*](https://link.springer.com/chapter/10.1007/978-981-15-9927-9_88) &mdash; **Springer**, Jun 2021
+## 📚 Publication
 
-      ---
+📖 [*A study on secure cloud storage based on cloud computing*](https://link.springer.com/chapter/10.1007/978-981-15-9927-9_88) — **Springer**, Jun 2021
 
-      ## &#x1F4C8; GitHub Stats
+---
 
-      <div align="center">
+## 📈 GitHub Stats
 
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=piyushaneja30&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushaneja30&layout=compact&theme=radical&hide_border=true" />
+<div align="center">
 
-      </div>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=piyushaneja30&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushaneja30&layout=compact&theme=radical&hide_border=true" />
 
-      ---
+</div>
 
-      <div align="center">
+---
 
-      *"The strength of the team is each individual member. The strength of each member is the team."*
+<div align="center">
 
-      &#x2B50; If my work helped you, consider giving a star to a repo!
+*"The strength of the team is each individual member. The strength of each member is the team."*
 
-      ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer)
 
-      </div>
+</div>
