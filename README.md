@@ -32,7 +32,7 @@ I specialize in Apex, Lightning Web Components, OmniStudio, and MuleSoft integra
 
 ```yaml
 name        : Piyush Aneja
-location    : India 🇮🇳 (Remote → Japan 🇯🇵)
+location    : India 🇮🇳
 current_role: Software Developer @ Rimo LLC
 experience  : 4+ Years
 certifications: 9 Salesforce + 4 Superbadges
@@ -100,8 +100,13 @@ philosophy  : Kaizen — continuous improvement, always
 
 ## 🏅 Awards & Recognition
 
+**Individual Awards**
+
 - 🥇 **Team Excellence Award** — MTX Group Inc. *(Feb 2025)*
 - ⭐ **Above & Beyond Award** — MTX Group Inc. *(Feb 2026, Jan 2025, Apr 2023)*
+
+**Team Awards**
+
 - 🎤 **MTX Demo Jam Award** — *(2025)*
 - 🏛️ **NASCIO Award** — Government IT Innovation
 
@@ -117,8 +122,9 @@ philosophy  : Kaizen — continuous improvement, always
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=piyushaneja30&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushaneja30&layout=compact&theme=radical&hide_border=true" />
+![Commits](https://img.shields.io/badge/Total%20Commits-500%2B-e94560?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Repos](https://img.shields.io/badge/Public%20Repos-20%2B-1798c1?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-ffd700?style=for-the-badge&logo=salesforce&logoColor=white)
 
 </div>
 
